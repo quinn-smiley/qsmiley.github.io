@@ -1,4 +1,4 @@
-CIT 281 Content
+CIT 281 Content/
 Lab 01
 Lab 01 included the installation and set up of the required software tools for the course. These included Postman, Git, Windows Powershell, and some extensions to Visual Studio Code.
 Lab 02 
