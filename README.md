@@ -1,10 +1,10 @@
-CIT 281 Content/
-Lab 01
-Lab 01 included the installation and set up of the required software tools for the course. These included Postman, Git, Windows Powershell, and some extensions to Visual Studio Code.
-Lab 02 
-Lab 02 included CLI commands, creating git repositories, and cloning cloud repositories locally. 
-Project 01
-Project 01 consisted of using the CLI to create folders and using the ping command. 
+CIT 281 Content  
+Lab 01  
+Lab 01 included the installation and set up of the required software tools for the course. These included Postman, Git, Windows Powershell, and some extensions to Visual Studio Code.  
+Lab 02   
+Lab 02 included CLI commands, creating git repositories, and cloning cloud repositories locally.   
+Project 01  
+Project 01 consisted of using the CLI to create folders and using the ping command.  
 Lab 03
 Lab 03 included destructuring objects, arrow functions, for...in syntax (objects), for...of syntax (arrays), and inporting a NodeJS module using require. 
 Project 02
