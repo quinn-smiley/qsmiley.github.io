@@ -1,4 +1,4 @@
-![Alt text](images/mitchell-luo-mr2TyJ1BnsQ-unsplash.jpg)
+![Flower Tile Pattern](images/mitchell-luo-mr2TyJ1BnsQ-unsplash.jpg)
 CIT 281 Content  
 Lab 01  
 Lab 01 included the installation and set up of the required software tools for the course. These included Postman, Git, Windows Powershell, and some extensions to Visual Studio Code.  
